@@ -47,4 +47,4 @@ This is a simple implementation of the classic **Rock, Paper, Scissors** game us
 
 ## License
 
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
